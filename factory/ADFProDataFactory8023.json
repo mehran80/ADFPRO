@@ -1,0 +1,15 @@
+{
+	"name": "ADFProDataFactory8023",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c36b0988-5096-4201-97a8-ac78b9225e1c",
+		"tenantId": "2539ef95-b754-47dd-958a-d0e386753427"
+	}
+}
