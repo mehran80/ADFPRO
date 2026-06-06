@@ -1746,7 +1746,8 @@
 				"policy": {
 					"elapsedTimeMetric": {}
 				},
-				"annotations": []
+				"annotations": [],
+				"lastPublishTime": "2026-06-05T16:44:27Z"
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/dataflows/DeltaFlow')]"
